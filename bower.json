@@ -1,0 +1,43 @@
+{
+  "name": "purescript-nomegen",
+  "description": "A library for randomly generating names.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "package.json"
+  ],
+  "keywords": [
+    "purescript"
+  ],
+  "authors": [
+    "Ian D. Bollinger <ian.bollinger@gmail.com> (https://github.com/ianbollinger)"
+  ],
+  "homepage": "https://github.com/ianbollinger/purescript-nomegen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianbollinger/purescript-nomegen"
+  },
+  "dependencies": {
+    "purescript-aff": "^1.1.0",
+    "purescript-arrays": "^1.1.0",
+    "purescript-eff": "^1.0.0",
+    "purescript-exceptions": "^1.0.0",
+    "purescript-foldable-traversable": "^1.0.0",
+    "purescript-halogen": "^0.11.0",
+    "purescript-lists": "^1.0.1",
+    "purescript-maps": "^1.1.0",
+    "purescript-maybe": "^1.0.0",
+    "purescript-prelude": "^1.0.1",
+    "purescript-random": "^1.0.0",
+    "purescript-sets": "^1.0.0",
+    "purescript-strings": "^1.1.0",
+    "purescript-tuples": "^1.0.0",
+    "purescript-unfoldable": "^1.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^1.0.0"
+  }
+}
